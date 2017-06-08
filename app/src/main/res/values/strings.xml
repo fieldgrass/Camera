@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">帮  拍</string>
+    <string name="title_activity_main">帮  拍</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="main_page">首　　页</string>
+    <string name="n_filter">滤　　镜</string>
+    <string name="my_gallery">我的相册</string>
+    <string name="share">分享</string>
+
+
+    <!-- 滤镜 -->
+    <string name="text_filter_normal">原图</string>
+    <string name="text_filter_meifu">自然美肌</string>
+    <string name="text_filter_meishi">美食</string>
+    <string name="text_filter_amaro">流年</string>
+    <string name="text_filter_rise">森系</string>
+    <string name="text_filter_hudson">胶片</string>
+    <string name="text_filter_xproii">新潮</string>
+    <string name="text_filter_sierra">清新</string>
+    <string name="text_filter_lomofi">个性</string>
+    <string name="text_filter_early_bird">怡尚</string>
+    <string name="text_filter_sutro">摩登</string>
+    <string name="text_filter_toaster">绚丽</string>
+    <string name="text_filter_brannan">淡雅</string>
+    <string name="text_filter_inkwell">黑白</string>
+    <string name="text_filter_walden">日系</string>
+    <string name="text_filter_hefe">优格</string>
+    <string name="text_filter_valencia">优雅</string>
+    <string name="text_filter_nashville">复古</string>
+    <string name="text_filter_in1977">创新</string>
+    <string name="text_filter_lord_kelvin">回忆</string>
+
+
+</resources>
